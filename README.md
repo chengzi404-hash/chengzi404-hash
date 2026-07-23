@@ -6,6 +6,12 @@
   </a>
 </h1>
 
+<div style="align: center">
+  <picture>
+    <img src="./github-metrics.svg" alt="metrics">
+  </picture>
+</div>
+
 <p align="center">
   <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chengzi404-hash&theme=dark&hide_border=true" />
