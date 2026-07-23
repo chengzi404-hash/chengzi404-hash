@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://blog.anheyu.com/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336FFF7&lines=Welcome%20to%20my%20account.;print(%22Hello%EF%BC%8Cworld%22);echo<<%22Hello%EF%BC%8Cworld%22">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336FFF7&lines=Welcome%20to%20my%20account.;print(%22Hello%EF%BC%8Cworld%22);echo<<%22Hello%EF%BC%8Cworld%22;console.log(%22Hello%EF%BC%8Cworld%22);git%20push">
   </a>
 </h1>
 
